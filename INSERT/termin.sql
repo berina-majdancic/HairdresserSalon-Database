@@ -1,0 +1,21 @@
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (1, '2023-05-08 10:00:00', 1, 1, 1);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (2, '2023-05-08 11:00:00', 2, 2, 2);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (3, '2023-05-08 12:00:00', 3, 3, 3);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (4, '2023-05-08 13:00:00', 4, 4, 4);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (5, '2023-05-08 14:00:00', 5, 5, 5);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (6, '2023-05-08 15:00:00', 6, 6, 6);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (7, '2023-05-08 16:00:00', 7, 7, 7);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (8, '2023-05-08 17:00:00', 8, 8, 8);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (9, '2023-05-09 10:00:00', 1, 1, 1);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (10, '2023-05-09 11:00:00', 2, 2, 2);
+
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (11, '2023-05-08 10:00:00', 1, 1, 1);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (12, '2023-05-08 11:00:00', 2, 2, 2);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (13, '2023-05-08 12:00:00', 3, 3, 3);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (14, '2023-05-08 13:00:00', 4, 4, 4);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (15, '2023-05-08 14:00:00', 5, 5, 5);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (16, '2023-05-08 15:00:00', 6, 6, 6);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (17, '2023-05-08 16:00:00', 7, 7, 7);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (18, '2023-05-08 17:00:00', 8, 8, 8);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (19, '2023-05-09 10:00:00', 1, 1, 1);
+INSERT INTO termin (id_Termin, datum_vrijeme, Klijent_id_Klijent, Racun_id_Racun, Zaposlenik_id_zaposlenik) VALUES (20, '2023-05-09 11:00:00', 2, 2, 2);
